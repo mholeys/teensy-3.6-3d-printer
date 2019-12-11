@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "anet a8")(type KiCad)(uri "C:/Users/Matthew/Documents/Work/Personal/3D printer/teensy-3.6-3d-printer/anet-a8")(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri "C:/Users/Matthew/Documents/Work/Personal/3D printer/teensy-3.6-3d-printer/XenGi-teensy-3.6")(options "")(descr ""))
+)
