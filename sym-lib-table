@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name teensy)(type Legacy)(uri "C:/Users/Matthew/Documents/Work/Personal/3D printer/teensy-3.6-3d-printer/XenGi-teensy-3.6/teensy.lib")(options "")(descr ""))
   (lib (name anet-a8)(type Legacy)(uri "C:/Users/Matthew/Documents/Work/Personal/3D printer/teensy-3.6-3d-printer/anet-a8/anet-a8.lib")(options "")(descr ""))
+  (lib (name teensy-3.6-3d-printer-rescue)(type Legacy)(uri ${KIPRJMOD}/teensy-3.6-3d-printer-rescue.lib)(options "")(descr ""))
 )
