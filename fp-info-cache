@@ -1,4 +1,4 @@
-16581878350769228
+16583470336725246
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74101,6 +74101,13 @@ XP_DC_DC_ISP
 0
 6
 6
+fuse
+Pudenz-30a-PCB-ATO-Fuseholder
+178.6165.0002
+Connector
+0
+8
+8
 teensy
 Teensy1.0
 11
