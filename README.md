@@ -11,6 +11,7 @@ Disclaimer:
 
 Problems:
 - After having the boards produced, I noticed that I have made a mistake with the holes for the custom boards such as the the rear pin breakout, and the TMC2130 driver holes. This has not been a problem for me as I have some smaller round hole pin headers, which fit perfectly, but you may have to redesign or modify this board in order to use something different.
+- After using the board for a while, I have noticed I have also undersized the traces! (BAD, same problem as the original Anet A8 baord). This can be fixed by adding additional cabling between the GND input and the stepper motors, and importantly the transistors for the hot ends. This may make this board dangerous to use, and another reason not to use this board AS IS. 
 
 Uses:
 - https://github.com/XenGi/teensy_library
